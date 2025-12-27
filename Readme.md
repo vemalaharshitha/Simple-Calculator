@@ -5,11 +5,6 @@ It performs basic arithmetic operations and also shows calculation **history**.
 
 ---
 
-## 📸 Preview
-![Simple Calculator Preview](images/simple-calc.png)
-
----
-
 ## ✨ Features
 - ➕ Addition  
 - ➖ Subtraction  
@@ -36,3 +31,4 @@ It performs basic arithmetic operations and also shows calculation **history**.
 
 ## 🙌 Developer
 Made with ❤️ by **Vemala Harshitha**
+
